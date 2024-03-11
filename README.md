@@ -5,4 +5,4 @@
 # https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/
 
 # pwa available at:
-# tomasz-91.github.io/myFirstPwa
+# https://tomasz-91.github.io/myFirstPwa
